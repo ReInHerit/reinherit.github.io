@@ -1,0 +1,2 @@
+(self.webpackChunkreinherit_digital_hub_prototype=self.webpackChunkreinherit_digital_hub_prototype||[]).push([[943],{2172:function(e,t,r){"use strict";r.r(t);var i=r(7294),n=r(1322);t.default=function(){return i.createElement(n.Z,null,"Shop(s)")}}}]);
+//# sourceMappingURL=component---src-pages-content-shops-index-tsx-a189c24a6e88ecceb70d.js.map

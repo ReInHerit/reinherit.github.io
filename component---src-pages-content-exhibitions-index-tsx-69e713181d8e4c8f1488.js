@@ -1,0 +1,2 @@
+(self.webpackChunkreinherit_digital_hub_prototype=self.webpackChunkreinherit_digital_hub_prototype||[]).push([[34],{1316:function(e,t,i){"use strict";i.r(t);var n=i(7294),r=i(5470);t.default=function(){return n.createElement(r.Z,null,"Exhibitions")}}}]);
+//# sourceMappingURL=component---src-pages-content-exhibitions-index-tsx-69e713181d8e4c8f1488.js.map

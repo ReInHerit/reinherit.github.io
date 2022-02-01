@@ -1,0 +1,15 @@
+/*!
+ * TOAST UI Color Picker
+ * @version 2.2.7
+ * @author NHN FE Development Team <dl_javascript@nhn.com>
+ * @license MIT
+ */
+
+/*!
+ * tui-code-snippet.js
+ * @version 1.5.2
+ * @author NHN. FE Development Lab <dl_javascript@nhn.com>
+ * @license MIT
+ */
+
+// @license RGB <-> HSV conversion utilities based off of http://www.cs.rit.edu/~ncs/color/t_convert.html

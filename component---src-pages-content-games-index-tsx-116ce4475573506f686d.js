@@ -1,0 +1,2 @@
+(self.webpackChunkreinherit_digital_hub_prototype=self.webpackChunkreinherit_digital_hub_prototype||[]).push([[157],{3195:function(e,t,r){"use strict";r.r(t);var i=r(7294);t.default=function(){return i.createElement("p",null,"GamesPage")}}}]);
+//# sourceMappingURL=component---src-pages-content-games-index-tsx-116ce4475573506f686d.js.map
