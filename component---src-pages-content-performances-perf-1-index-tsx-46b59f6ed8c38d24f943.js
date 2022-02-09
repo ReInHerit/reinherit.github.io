@@ -1,0 +1,2 @@
+(self.webpackChunkreinherit_digital_hub_prototype=self.webpackChunkreinherit_digital_hub_prototype||[]).push([[141],{7879:function(e,t,r){"use strict";r.r(t);var n=r(7294),u=r(8474);t.default=function(){return n.createElement(u.Z,null,n.createElement("h1",null,"Performance 1"))}}}]);
+//# sourceMappingURL=component---src-pages-content-performances-perf-1-index-tsx-46b59f6ed8c38d24f943.js.map
