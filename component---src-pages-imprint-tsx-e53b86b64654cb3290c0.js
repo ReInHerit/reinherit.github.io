@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreinherit_digital_hub_prototype=self.webpackChunkreinherit_digital_hub_prototype||[]).push([[182],{3801:function(e,t,n){n.r(t);var r=n(7294),i=n(1196);t.default=function(){return r.createElement(i.Z,null,r.createElement("h1",null,"Imprint"))}}}]);
-//# sourceMappingURL=component---src-pages-imprint-tsx-e53b86b64654cb3290c0.js.map

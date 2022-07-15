@@ -1,2 +1,0 @@
-(self.webpackChunkreinherit_digital_hub_prototype=self.webpackChunkreinherit_digital_hub_prototype||[]).push([[181],{4678:function(e,t,r){"use strict";r.r(t);var i=r(7294);t.default=function(){return i.createElement("p",null,"redirect me!")}}}]);
-//# sourceMappingURL=component---src-pages-content-index-tsx-472b47d8af2bca1efa86.js.map
