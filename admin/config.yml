@@ -2,7 +2,7 @@ backend:
   name: github                  # set to 'git-gateway' when using netlify git-gateway
   repo: ReInHerit/digital-hub   # comment out line when using neltlify git-gateway
   branch: main
-local_backend: false             # true if accessed local dev instance of netlify cms port 8081 | How tu run a local dev server: https://www.netlifycms.org/docs/beta-features/
+local_backend: true             # true if accessed local dev instance of netlify cms port 8081 | How tu run a local dev server: https://www.netlifycms.org/docs/beta-features/
 search: true   # disables search for collections -> hidden collections could be found with other config!
 logo_url: /images/rein_logo.jpg   # setting a custom logo used by the CMS. Displayed ad login screen.
 
