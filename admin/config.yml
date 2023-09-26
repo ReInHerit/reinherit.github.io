@@ -796,10 +796,10 @@ collections:
           required: false,
       }
   - name: "summerschool"
-    label: "ReInHerit Summer School" # Used in the UI
+    label: "ReInHerit XR&AI Summer School" # Used in the UI
     label_singular: "message" # Used in the UI, ie: "New Post"
     folder: "content/summerschool"
-    description: This collection is intended for documenting the XR/AI Summer School (Matera 2023).
+    description: This collection is intended for documenting the summerschool.
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
