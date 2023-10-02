@@ -860,6 +860,27 @@ collections:
           required: false,
         } 
       - {
+          label: "iframesrc1",
+          name: "iframe",
+          widget: "string",
+          media_library: { config: { max_file_size: 50000000 } },
+          required: false,
+        },
+      - {
+          label: "iframesrc2",
+          name: "iframe",
+          widget: "string",
+          media_library: { config: { max_file_size: 50000000 } },
+          required: false,
+        }
+      - {
+          label: "iframesrc3",
+          name: "iframe",
+          widget: "string",
+          media_library: { config: { max_file_size: 50000000 } },
+          required: false,
+        }
+      - {
           label: "Body",
           name: "body",
           widget: "markdown",
